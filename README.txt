@@ -5,6 +5,9 @@ This package was originally written using the Google Colab interpreter. If this 
 
 If you would rather use your own interpreter, it will change some of the downloads that you need. If you want to use your own interpreter, use the .py notebook. 
 
+This method now includes a 3 parameter model along with a 5 parameter model. It will export the figures that you make along with all the fits into an excel if you wish. 
+
+
 For python: 
 -numpy
 -matplotlib
